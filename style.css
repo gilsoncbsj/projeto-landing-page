@@ -71,6 +71,7 @@ header {
     box-shadow: 4px 5px 4px rgb(0, 0, 0, 0.25);
     font-weight: bold;
     font-size: 18px;
+    cursor: pointer;
     
 }
 .paginaUmImg{
@@ -193,6 +194,7 @@ header {
     border: none;
     box-shadow: 4px 5px 4px rgb(0, 0, 0, 0.25);
     font-weight: bold;
+    cursor: pointer;
 }
 .dadosFormulario{
     background-color: #3F5168;
